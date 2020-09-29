@@ -1,0 +1,19 @@
+==========================Exercise Checking Report==========================
+
+Exercise No...........: 1
+
+First Student Details.: 313510489 - Roe Iton
+
+Second Student Details: 206126138 - Omer Bentov
+
+Delivery Date.........: 29 - August - 2020
+
+Delivered In Delay....: No
+
+Delay Reason..........: 
+
+Visual Studio Version.: 2019
+
+Comments..............:
+
+=======================End Exercise Checking Report=========================

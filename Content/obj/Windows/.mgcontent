@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/GitHub/Education/IDC/Games/Ex2/C20 Ex01 Roe 313510489 Omer 206126138/C20 Ex01 Roe 313510489 Omer 206126138/Content/Fonts/Consolas.spritefont</File>
+    <File>C:/GitHub/Education/IDC/Games/Ex2/C20 Ex01 Roe 313510489 Omer 206126138/C20 Ex01 Roe 313510489 Omer 206126138/Content/Sprites/Barrier_44x32.png</File>
+    <File>C:/GitHub/Education/IDC/Games/Ex2/C20 Ex01 Roe 313510489 Omer 206126138/C20 Ex01 Roe 313510489 Omer 206126138/Content/Sprites/BG_Space01_1024x768.jpg</File>
+    <File>C:/GitHub/Education/IDC/Games/Ex2/C20 Ex01 Roe 313510489 Omer 206126138/C20 Ex01 Roe 313510489 Omer 206126138/Content/Sprites/Bullet.png</File>
+    <File>C:/GitHub/Education/IDC/Games/Ex2/C20 Ex01 Roe 313510489 Omer 206126138/C20 Ex01 Roe 313510489 Omer 206126138/Content/Sprites/Enemy_192x32.png</File>
+    <File>C:/GitHub/Education/IDC/Games/Ex2/C20 Ex01 Roe 313510489 Omer 206126138/C20 Ex01 Roe 313510489 Omer 206126138/Content/Sprites/MotherShip_32x120.png</File>
+    <File>C:/GitHub/Education/IDC/Games/Ex2/C20 Ex01 Roe 313510489 Omer 206126138/C20 Ex01 Roe 313510489 Omer 206126138/Content/Sprites/Ship01_32x32.png</File>
+    <File>C:/GitHub/Education/IDC/Games/Ex2/C20 Ex01 Roe 313510489 Omer 206126138/C20 Ex01 Roe 313510489 Omer 206126138/Content/Sprites/Ship02_32x32.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
